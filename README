@@ -1,7 +1,7 @@
 PERLBOOK - 5.005_02 
  
            Complete PERL Documentation in Adobe Acrobat Format
-           Brought to you courtesy of Bill Middleton.
+               Brought to you courtesy of Bill Middleton
  
  
   This directory includes the file perlbook.pdf, which contains the
@@ -22,6 +22,16 @@ for no charge from the Adobe Systems, Inc. web site:
  
     <A HREF="http://www.adobe.com/">Get it here!</A>
  
+  In previous versions this document has included an Acrobat Catalog (tm)
+index of the entire document.  Unfortunately, I don't have the time to 
+continue to support that feature.  If you want an index, you'll have
+to generate it yourself using AcroCat.
+
+  This version also includes some additional documentation from various
+modules which I use, and are quite popular, including libwww, DBD, 
+Sybperl, and the all-important Win32:: modules.  Find these under the
+Additional Modules bookmark.
+
 
 Bill Middleton
 wjm@metronet.com
